@@ -1,0 +1,2 @@
+# baslangic
+ilk
